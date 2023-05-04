@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15d7ef6-e5b3-4bd0-8976-6c32776f5600" name="Changes" comment="Spring Boot REST - deleted REST controller and service packages">
+    <list default="true" id="c15d7ef6-e5b3-4bd0-8976-6c32776f5600" name="Changes" comment="Spring Boot REST - changing base path">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
@@ -210,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683176469469</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Spring Boot REST - changing base path">
+      <created>1683198782269</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683198782269</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,6 +242,7 @@
     <MESSAGE value="Sprin Boot REST - Spring Data REST - initial version" />
     <MESSAGE value="Spring Boot REST - added Spring Data REST to pom.xml" />
     <MESSAGE value="Spring Boot REST - deleted REST controller and service packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring Boot REST - deleted REST controller and service packages" />
+    <MESSAGE value="Spring Boot REST - changing base path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring Boot REST - changing base path" />
   </component>
 </project>
