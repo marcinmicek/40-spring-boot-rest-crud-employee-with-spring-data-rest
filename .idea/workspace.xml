@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15d7ef6-e5b3-4bd0-8976-6c32776f5600" name="Changes" comment="Sprin Boot REST Spring Data JPA with EmployeeRepository interface - final version" />
+    <list default="true" id="c15d7ef6-e5b3-4bd0-8976-6c32776f5600" name="Changes" comment="Sprin Boot REST - Spring Data REST - initial version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682851469165</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Sprin Boot REST - Spring Data REST - initial version">
+      <created>1683176046905</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683176046905</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +206,7 @@
     <MESSAGE value="REST Controller - Delete method (DELETE) - delete single employee" />
     <MESSAGE value="Creating EmployeeRepository interface. Refactoring the code to use it instead of employeeDAO" />
     <MESSAGE value="Sprin Boot REST Spring Data JPA with EmployeeRepository interface - final version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprin Boot REST Spring Data JPA with EmployeeRepository interface - final version" />
+    <MESSAGE value="Sprin Boot REST - Spring Data REST - initial version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprin Boot REST - Spring Data REST - initial version" />
   </component>
 </project>
