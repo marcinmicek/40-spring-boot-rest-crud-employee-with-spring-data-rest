@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15d7ef6-e5b3-4bd0-8976-6c32776f5600" name="Changes" comment="Sprin Boot REST - Spring Data REST - initial version">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="c15d7ef6-e5b3-4bd0-8976-6c32776f5600" name="Changes" comment="Spring Boot REST - deleted REST controller and service packages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683176106055</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Spring Boot REST - added Spring Data REST to pom.xml">
+      <created>1683176321620</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683176321620</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Spring Boot REST - deleted REST controller and service packages">
+      <created>1683176469469</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683176469469</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -216,6 +232,8 @@
     <MESSAGE value="Creating EmployeeRepository interface. Refactoring the code to use it instead of employeeDAO" />
     <MESSAGE value="Sprin Boot REST Spring Data JPA with EmployeeRepository interface - final version" />
     <MESSAGE value="Sprin Boot REST - Spring Data REST - initial version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprin Boot REST - Spring Data REST - initial version" />
+    <MESSAGE value="Spring Boot REST - added Spring Data REST to pom.xml" />
+    <MESSAGE value="Spring Boot REST - deleted REST controller and service packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring Boot REST - deleted REST controller and service packages" />
   </component>
 </project>
